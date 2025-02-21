@@ -1,4 +1,5 @@
-## Hi there 👋
+# 💫 About Me: 
+👋 Hi there! I’m Dong Duong  , you can call me D2
 
 <!--
 **d2inthenow/d2inthenow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
